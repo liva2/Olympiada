@@ -1,0 +1,25 @@
+5
+lemon 10    
+water 51   
+syrup 6   
+sugar 28    
+mint 17   
+3
+lemonade 3
+lemon 3
+water 3
+sugar 1
+lemonmint 4
+mint 1
+lemon 2
+water 3
+syrup 2
+lemonint 4
+mint 1
+lemon 2
+water 3
+syrup 4
+3
+lemonade
+lemonmint
+lemonmint
